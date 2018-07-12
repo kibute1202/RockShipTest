@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Rock Ship Test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hint_search_home">Search</string>
+    <string name="caption_test">[Mời thảo luận] Dự án đầu tiên của cộng đồng CEO 1K: Hệ thống Cafe CEO 1K.</string>
+    <string name="description_test">The Deck Hoi An, địa điểm mới nổi không thể bỏ lỡ khi đến Hội An.\n\nRooftop bar cao nhất Hội An này sở hữu view bao quát toàn cảnh phố cổ, sông Thu Bồn để bạn khám phá nét đẹp phố Hội từ một góc nhìn hoàn toàn mới.\n\nCòn nhiều điều hấp dẫn hơn nữa tại đây: https://bit.ly/2J4oYJa\n----\nTake your experiences to new heights at The Deck Hoi An, the highest rooftop bar in Hoi An.</string>
+    <string name="see_more_text">See more</string>
+    <string name="show_less_text">Show less</string>
+    <string name="register_text">Register</string>
+    <string name="share_text">Share</string>
+    <string name="like_text">Like</string>
+    <string name="registers_text">Registers</string>
+    <string name="likes_text">Likes</string>
+    <string name="comments_text">Comments</string>
+    <string name="views_text">Views</string>
 </resources>

@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#019493</color>
+    <color name="colorPrimaryDark">#019493</color>
+    <color name="colorAccent">#019493</color>
+
+    <color name="colorBackgroundNavigation">#f2f2f2</color>
+    <color name="colorDefaultIconNavigation">#898989</color>
+    <color name="colorBackgroundSearch">#017574</color>
+    <color name="colorTextHint">#beaeaeae</color>
+    <color name="colorListPost">#eaedf4</color>
+    <color name="colorDescription">#2F2F2F</color>
+    <color name="colorSub">#818181</color>
+    <color name="colorBlurImage">#67151414</color>
+    <color name="colorUnderline">#F4F4F6</color>
 </resources>
